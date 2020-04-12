@@ -1,0 +1,88 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Auriculares",
+      "accion": "Se vende",
+      "precio": "100",
+      "foto": "images/auriculares.jpg",
+      "tags": ["Lifestyle"]
+    },
+    {
+      "nombre": "Bicicleta",
+      "accion": "Se vende",
+      "precio": "500",
+      "foto": "images/bicicleta.jpg",
+      "tags": ["Lifestyle", "Motor"]
+    },
+    {
+      "nombre": "Moto",
+      "accion": "Se busca",
+      "precio": "1000",
+      "foto": "images/moto.jpg",
+      "tags": ["Motor"]
+    },
+    {
+      "nombre": "Ordenador de mesa",
+      "accion": "Se vende",
+      "precio": "300",
+      "foto": "images/ordenador de mesa.jpg",
+      "tags": ["Work"]
+    },
+    {
+      "nombre": "Ordenador",
+      "accion": "Se busca",
+      "precio": "400",
+      "foto": "images/ordenador.jpg",
+      "tags": ["Work"]
+    },
+    {
+      "nombre": "Telefono",
+      "accion": "Se vende",
+      "precio": "50",
+      "foto": "images/telefono.jpg",
+      "tags": ["Mobil"]
+    },
+    {
+      "nombre": "Patin electrico",
+      "accion": "Se vende",
+      "precio": "60",
+      "foto": "",
+      "tags": ["Motor"]
+    },
+    {
+      "nombre": "Mesa",
+      "accion": "Se busca",
+      "precio": "20",
+      "foto": "",
+      "tags": ["Work"]
+    },
+    {
+      "nombre": "Silla",
+      "accion": "Se vende",
+      "precio": "10",
+      "foto": "",
+      "tags": ["Work"]
+    },
+    {
+      "nombre": "Esterilla Yoga",
+      "accion": "Se vende",
+      "precio": "20",
+      "foto": "",
+      "tags": ["LifeStyle"]
+    },
+    {
+      "nombre": "Samsung",
+      "accion": "Se vende",
+      "precio": "60",
+      "foto": "",
+      "tags": ["Mobile"]
+    },
+    {
+      "nombre": "Huerto ecológico",
+      "accion": "Se vende",
+      "precio": "60",
+      "foto": "",
+      "tags": ["Se vende"]
+    }
+  ]
+}
